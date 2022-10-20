@@ -1,1 +1,1 @@
-# Attendance-System-Using-Face-and-Hand-Gesture-Recognition
+# main program is in FRAS folder
